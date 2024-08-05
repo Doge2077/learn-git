@@ -9,4 +9,8 @@ public class Test {
     public static void test(String s) {
         System.out.println(s);
     }
+
+    public static void test() {
+        System.out.println("test");
+    }
 }
