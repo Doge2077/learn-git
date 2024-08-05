@@ -10,7 +10,4 @@ public class Test {
         System.out.println(s);
     }
 
-    public static void test() {
-        System.out.println("test");
-    }
 }
